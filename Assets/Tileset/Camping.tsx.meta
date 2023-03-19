@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a5e035d379267074697ffa3f0e1e1fd1
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  errors:
+  - Unknown error encountered. Please report as bug. Stack track is in the console
+    output.
+  - 'Texture2D.GetPixels: the size of data to be written to would result in writing
+    outside the target buffer bounds. (Texture '''')'
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 16
+  edgesPerEllipse: 32
+  useSpriteAtlas: 1
+  atlasWidth: 4096
+  atlasHeight: 4096
